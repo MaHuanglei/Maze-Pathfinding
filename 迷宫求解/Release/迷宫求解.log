@@ -1,0 +1,23 @@
+﻿生成启动时间为 2018/1/2 11:16:13。
+     1>项目“C:\Users\马黄雷\Desktop\数据结构课程设计\第02题-迷宫求解\迷宫求解\迷宫求解\迷宫求解.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Visual Studio 2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\迷宫求解.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Visual Studio 2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\迷宫求解.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Maze.cpp "迷宫求解.cpp"
+         Maze.cpp
+         迷宫求解.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /nologo /fo"Release\迷宫求解.res" "迷宫求解.rc" 
+       Link:
+         D:\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\马黄雷\Desktop\数据结构课程设计\第02题-迷宫求解\迷宫求解\Release\迷宫求解.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"kernel32.lib user32.lib gdi32.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Visual Studio 2013\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\马黄雷\Desktop\数据结构课程设计\第02题-迷宫求解\迷宫求解\Release\迷宫求解.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\马黄雷\Desktop\数据结构课程设计\第02题-迷宫求解\迷宫求解\Release\迷宫求解.lib" /MACHINE:X86 /SAFESEH "Release\迷宫求解.res"
+         Release\Maze.obj
+         Release\stdafx.obj
+         "Release\迷宫求解.obj"
+         正在生成代码
+         已完成代码的生成
+         迷宫求解.vcxproj -> C:\Users\马黄雷\Desktop\数据结构课程设计\第02题-迷宫求解\迷宫求解\Release\迷宫求解.exe
+     1>已完成生成项目“C:\Users\马黄雷\Desktop\数据结构课程设计\第02题-迷宫求解\迷宫求解\迷宫求解\迷宫求解.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.15
